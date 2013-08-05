@@ -1,4 +1,4 @@
-# grunt-json-generator
+# grunt-json-generator [![Build Status](https://travis-ci.org/Xumeiquer/grunt-json-generator.png?branch=master)](https://travis-ci.org/Xumeiquer/grunt-json-generator)
 
 > Write your json files easily.
 
