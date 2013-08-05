@@ -37,6 +37,10 @@
     "grunt": "~0.4.1"
   },
   "keywords": [
+    "json",
+    "generator",
+    "grunt",
+    "node",
     "gruntplugin"
   ]
 }
